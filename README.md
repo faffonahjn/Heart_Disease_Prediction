@@ -72,9 +72,6 @@ To complement the notebook analysis, an interactive dashboard was built to explo
 - Feature importance
 - Predictive insights
 
-🔗 [View Dashboard]:
-(Open Zoho Analytics Dashboard)
-
 **### Tools & Technologies**
 - Python: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - Machine Learning: Logistic Regression, Random Forest
